@@ -1,1 +1,1 @@
-# wids_kaggle2018
+# Women in Data Science (WiDS) 2018 Workshop
